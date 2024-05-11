@@ -55,7 +55,7 @@ We will explain the architecture in the Figure below by going thru the workflow 
 </ul>
 
 <p align="center">
-    <img src="./blogImages/arch.png" alt="Arch Image" width="400"/>
+    <img src="./blogImages/arch.png" alt="Arch Image" width="500"/>
     <p align="center">Figure retrieved from Repilot paper[1].</p>
 </p>
 
