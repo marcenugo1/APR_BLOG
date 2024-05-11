@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    unreadLine = 0;",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.6280770000303164
+}

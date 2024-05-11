@@ -1,0 +1,669 @@
+{
+  "validation_configs": [
+    {
+      "n_cores": 1,
+      "bug_pattern": ".*"
+    }
+  ],
+  "result_dict": {
+    "Closure-133": {
+      "0": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.239562125003431,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "1": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.19472733297152445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "2": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.19472733297152445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "4": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14591270795790479,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "6": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1473583749611862,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "11": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14822566602379084,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "15": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14353974995901808,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "19": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15544495900394395,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "24": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15830633300356567,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "27": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15135995799209923,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "34": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.17772462498396635,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "36": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.18328175001079217,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "37": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.17288775002816692,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "40": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15243191603804007,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "44": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14890262502012774,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "46": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15032287500798702,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "49": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15306354203494266,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "51": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14752245898125693,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "56": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14550954097649083,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "78": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15000083297491074,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "85": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14693233295110986,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "106": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14643270801752806,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "122": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1465880840551108,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "124": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.16311712499009445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "140": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.19472733297152445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "148": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14966549997916445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "162": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14642879198072478,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "163": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14570020901737735,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "164": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15135995799209923,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "166": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14353974995901808,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "167": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.148829958983697,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "171": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14982862502802163,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "179": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1510615840088576,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "187": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14820975001202896,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "195": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14777149999281392,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "203": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1490703329909593,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "218": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14287837501615286,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "239": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.148326333030127,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "241": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14729975000955164,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "247": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15135995799209923,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "256": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14604066696483642,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "269": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.16589166695484892,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "272": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14873841701773927,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "290": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.19870787498075515,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "295": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15329779201420024,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "297": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14854170801118016,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "305": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14360412501264364,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "307": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1483039169688709,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "325": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14560866600368172,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "332": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15127004100941122,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "340": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1480768330511637,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "345": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15266816696384922,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "359": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14701437501935288,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "370": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15135995799209923,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "387": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15713704098016024,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "405": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1451477909577079,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "413": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.16232716699596494,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "416": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.19472733297152445,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "421": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15032654197420925,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "425": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15556854201713577,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "430": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14956804201938212,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "440": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14478216698626056,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "441": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1519931250368245,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "444": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1489030410302803,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "445": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.239562125003431,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "446": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14367425005184487,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "447": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1512548750033602,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "450": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14787766698282212,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "451": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14664062502561137,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "471": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14750183402793482,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "478": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.14865774998907,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "485": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.15135995799209923,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ],
+      "495": [
+        0,
+        {
+          "outcome": "Outcome.CompilationError",
+          "time_cost": 0.1520916250301525,
+          "stdout": "",
+          "stderr": "Running ant (compile)...................................................... FAIL\nExecuted command:  cd /Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 && /Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant -f /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/Users/marcenugo/Desktop/RA/Defects/defects4j -Dd4j.dir.projects=/Users/marcenugo/Desktop/RA/Defects/defects4j/framework/projects -Dbasedir=/Users/marcenugo/Desktop/RA/Defects/defects4j/Closure-133 -Dbuild.compiler=javac1.7  compile 2>&1\n/Users/marcenugo/Desktop/RA/Defects/defects4j/major/bin/ant: line 12: /Users/marcenugo/Library/Caches/Coursier/arc/https/corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-macosx-aarch64.tar.gz/amazon-corretto-8.jdk/Contents/Home/bin/bin/java: No such file or directory\nCannot compile sources! at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/d4j/d4j-compile line 82.\nCompilation failed in require at /Users/marcenugo/Desktop/RA/Defects/defects4j/framework/bin/defects4j line 195.\n"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    foundSemicolon = match(JsDocToken.EOL);",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.2814907919964753
+}

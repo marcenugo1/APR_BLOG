@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    lastSavedLineLineIndex = current().lineIndex;",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.8607685830211267
+}

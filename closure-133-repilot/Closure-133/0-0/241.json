@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    lastToken = match(JsDocToken.NEWLINE);",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.5466449999948964
+}

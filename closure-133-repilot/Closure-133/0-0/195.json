@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    stream.clear();\n    skipEOLs();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.6182280000066385
+}

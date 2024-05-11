@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    consumeWhitespace(result);",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.7709599580266513
+}

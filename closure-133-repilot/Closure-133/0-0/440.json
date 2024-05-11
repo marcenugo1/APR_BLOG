@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    skipEOLs();\n    next();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.093258415989112
+}

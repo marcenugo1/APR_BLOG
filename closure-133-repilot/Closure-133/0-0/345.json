@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    inJsDocLine = false;",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.957647375005763
+}

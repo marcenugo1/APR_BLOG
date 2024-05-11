@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    result = result.trim();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.05565358302556
+}

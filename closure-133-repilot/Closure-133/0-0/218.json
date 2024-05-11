@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    state = SEEN_LINE_AFTER_JSDOC_LINE;",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.957756292016711
+}

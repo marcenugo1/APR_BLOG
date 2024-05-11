@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    stream.clearLineReader();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.8627745830453932
+}

@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    readJsDocLine();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.8448244170285761
+}

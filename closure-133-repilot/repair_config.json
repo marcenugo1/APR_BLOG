@@ -1,0 +1,12 @@
+{
+  "n_samples": 500,
+  "lm_inference_config": {
+    "batch_size": 1,
+    "temperature": 1.0,
+    "top_k": 50,
+    "max_new_tokens": 50
+  },
+  "method": "SynthesisMethod.PRUNED_MEM",
+  "bug_pattern": "Closure-133",
+  "hunk_only": true
+}

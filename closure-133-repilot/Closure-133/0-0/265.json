@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    current();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.4576740409829654
+}

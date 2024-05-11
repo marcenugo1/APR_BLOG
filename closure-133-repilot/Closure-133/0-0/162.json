@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    scanJsDocToken();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 1.8885709169553593
+}

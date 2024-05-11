@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    mark(JsDocToken.EOL, true);",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.7937390829902142
+}

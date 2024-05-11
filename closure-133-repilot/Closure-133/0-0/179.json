@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    matchLine(JsDocToken.EOF).removeLeadingSpaces();",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.7430845419876277
+}

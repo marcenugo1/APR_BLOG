@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "hunk": "\n    // TODO: should we make this a loop?",
+      "is_pruned_halfway": false,
+      "is_unfinished": false
+    }
+  ],
+  "time_cost": 2.386442832998
+}
