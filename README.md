@@ -67,7 +67,7 @@ For easier implementation, authors suggest to run repilot as a docker image. So,
 </p>
 
 ## **Running Repliot**
-1. **Note:** First we make sure to have Docker installed on your system. [Install Docker](https://www.docker.com/get-started/)
+1. **Note:** First we make sure to have Docker installed on your system.
 2. **Download Repliot Image** By downloading the image you will have a running environment with Repilots APR tool and its Completion Engine. 
 ```
     docker pull universefly/repilot:fse23
@@ -112,19 +112,19 @@ Output:
 </ul>
 Patch 1: 
 <p align="center">
-    <img src="./blogImages/patch1.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/patch1.png" alt="Motivation Image" width="350"/>
 </p>
 Patch 2: 
 <p align="center">
-    <img src="./blogImages/patch2.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/patch2.png" alt="Motivation Image" width="350"/>
 </p>
 Patch 3: 
 <p align="center">
-    <img src="./blogImages/patch3.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/patch3.png" alt="Motivation Image" width="350"/>
 </p>
 Patch 4:
 <p align="center">
-    <img src="./blogImages/patch4.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/patch4.png" alt="Motivation Image" width="350"/>
 </p>
 
 2. **Validate the generated patches** 
