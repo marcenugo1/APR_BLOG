@@ -139,16 +139,16 @@ Now, run the validate function from the main source file. It will validate that 
 
  Results: 
 <p align="center">
-    <img src="./blogImages/4.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/4.png" alt="Motivation Image" width="450"/>
 </p>
 <p align="center">
-    <img src="./blogImages/3.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/3.png" alt="Motivation Image" width="450"/>
 </p>
 <p align="center">
-    <img src="./blogImages/2.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/2.png" alt="Motivation Image" width="450"/>
 </p>
 <p align="center">
-    <img src="./blogImages/1.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/1.png" alt="Motivation Image" width="450"/>
 </p>
 
 
@@ -160,7 +160,7 @@ Let's display the evaluation for the patches we just generated. Which means that
 python -m repilot.cli.main evaluate -d chart-9-repilot66
 ```
 <p align="center">
-    <img src="./blogImages/table.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/table.png" alt="Motivation Image" width="450"/>
 </p>
 
 ## **Experiments and Results**
@@ -170,7 +170,7 @@ For evaluation, first, Repilot will generate a set of candidate patches, and the
 When compared with existing techniques from various methodologies, including deep learning and template-based approaches, Repilot generates the most number of correct fixes on Defects4J and generalizes better to unseen bugs by fixing more unique bugs than no other approach was able to fix.
 </p>
 <p align="center">
-    <img src="./blogImages/tab1.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/tab1.png" alt="Motivation Image" width="450"/>
 </p>
 
 ## **Dataset**
@@ -199,7 +199,7 @@ It will give you more detail information about the open-source repository from w
 </ul>
 
 <p align="center">
-    <img src="./blogImages/defects.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/defects.png" alt="Motivation Image" width="450"/>
 </p>
 
 Now, to get more information about the bug we are generating patches for, we can run the command and pass the argument "b" with the id of the bug. 
@@ -216,7 +216,7 @@ Output gives you information below:
 </ul>
 
 <p align="center">
-    <img src="./blogImages/summary.png" alt="Motivation Image" width="300"/>
+    <img src="./blogImages/summary.png" alt="Motivation Image" width="450"/>
 </p>
 
 </p>
