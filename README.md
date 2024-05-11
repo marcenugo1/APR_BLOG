@@ -22,7 +22,9 @@ Recent investigations have demonstrated that Large Language Models(LLMs) have go
 <p align="center">
     <img src="./blogImages/motivation.png" alt="Motivation Image" width="400"/>
 </p>
-
+<p align="justify">
+Also, LLMs have a very distinct form of generating tokens from Completion Engines. LLMs based on decoder architectures, will output a probability map for each possible next token. Then, it will do a probability-based sampling to select the next token. As this approach can look straightforward, there are still some issues with using LLMs directly, such as: LLMs can generate infeasible tokens, it is also hard for LLMs to generate identifier names such as those using camel case or underscores in their names, as they break the words into subwords and the probability of generating the complete identifier correctly is minimal, and at last, LLMs don't know the return types or member fields of the objects which can generate many uncompilable patches. 
+</p>
 ## **System Design**
 ### **Completion Engine**
 <p align="justify">
